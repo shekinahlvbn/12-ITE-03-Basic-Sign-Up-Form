@@ -1,0 +1,114 @@
+form {
+    background-color: rgb(255, 255, 255);
+    border-radius: 15px;
+    position: ;
+    padding-left: 70px;
+    padding-bottom: 100px;
+    padding-top: 40px;
+    width: 850px; 
+}
+
+.formposition {
+    text-align: left;
+    display: inline-block;
+    margin-left: 470px;
+    margin-top: 190px;
+    text-align: left;
+}
+
+body {
+    background-image: url("FINAL\ BG.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.head {
+    text-align: left;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight:  bold;
+    color: rgb(43, 43, 43);
+}
+
+input {
+    width: 50%;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    fill-opacity: 0%;
+    border-bottom: 1px solid rgb(0, 0, 0);
+    font-family: "Montserrat", sans-serif;
+    background-color: rgb(255, 255, 255);
+}
+
+.image1 {
+    margin: 10px 0px
+}
+
+.usericon {
+    width: 15px;
+    height: 15px;
+}
+
+.image2 {
+    margin: 10px 0px
+}
+
+.emailicon {
+    width: 15px;
+    height: 15px;
+}
+
+.image3 {
+    margin: 10px 0px
+}
+
+.phoneicon {
+    width: 15px;
+    height: 15px;
+}
+
+.image4 {
+    margin: 10px 0px
+}
+
+.locationicon {
+    width: 15px;
+    height: 15px;
+}
+
+.gender {
+    margin-left: 20px;
+}
+
+.cutiee {
+    position: absolute;
+    left: 1010px;
+    bottom: 230px;
+    width: 400px;
+    height: 400px;
+}
+
+button {
+    width: 50%;
+    height: 35px;
+    margin-left: 20px;
+    margin-top: 20px;
+    border: none;
+    color: rgb(255, 255, 255);
+    background-color: rgb(118, 61, 61);
+    font-size: 18px;
+    font-weight: 600;
+    border-radius: 5px;
+    font-family: "Montserrat", sans-serif;
+}
+
+button:hover{
+    background-color:rgb(192, 103, 103);
+    animation-duration: 2s;
+    transition: .5s;
+    cursor: pointer;
+}
